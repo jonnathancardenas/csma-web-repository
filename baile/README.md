@@ -6,8 +6,8 @@ Esta carpeta contiene todos los archivos relacionados con danza y baile.
 
 ### 📂 estilos/
 Archivos organizados por estilo de baile:
-- **ballet/**: Ballet clásico y contemporáneo
-- **contemporaneo/**: Danza contemporánea
+- **ballet/**: Ballet clásico
+- **contemporaneo/**: Danza contemporánea moderna
 - **hip-hop/**: Hip-hop y baile urbano
 - **salsa/**: Salsa y baile de pareja latino
 - **bachata/**: Bachata tradicional y moderna

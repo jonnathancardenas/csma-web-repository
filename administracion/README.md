@@ -31,7 +31,7 @@ Pólizas de seguro y documentación relacionada.
 - Documenta fechas de vencimiento y renovaciones
 - Archiva versiones firmadas de todos los contratos
 - Cumple con regulaciones de protección de datos
-- Consulta con el departamento legal antes de archivar o eliminar
+- Consulta con asesoría legal antes de archivar o eliminar
 
 ## Seguridad
 ⚠️ Esta carpeta contiene información sensible. Implementa controles de acceso apropiados.
