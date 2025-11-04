@@ -1,0 +1,63 @@
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+
+# Archivos de logs
+*.log
+
+# Archivos comprimidos temporales
+*.zip.tmp
+*.tar.tmp
+*.gz.tmp
+
+# Directorios de caché
+.cache/
+cache/
+
+# Archivos de configuración local
+.env
+.env.local
+config.local.*
+
+# Archivos muy grandes (considerar almacenamiento externo)
+# Descomentar si es necesario:
+# *.psd
+# *.ai
+# *.wav
+# *.flac
+# *.mp4
+# *.mov
+# *.avi
+
+# Node modules si se agregan herramientas
+node_modules/
+package-lock.json
+
+# Python si se agregan scripts
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
